@@ -29,6 +29,7 @@ Para ello en un primer momento nos centraremos en el sector de los Metroidvania,
 Este cuenta con dos datasets de partida:
 - Steam: este dataset contiene información sobre las fechas de lanzamiento de los juegos
 - SteamSpy: este contiene información sobre los precios, las cantidad de reseñas positivas y negativas de los juegos y las etiquetas puestas por la comunidad (p. ej. Horror, FPS, Roguelite)
+Los datasets los he sacado de la siguiente página de Kaggle: https://www.kaggle.com/datasets/nikdavis/steam-store-raw
 
 ### Librerías
 
