@@ -1,4 +1,4 @@
-![imagen](./img/readme_banner.jpeg)
+![imagen](./img/readme_banner.jpg)
 
 # EDA Steam platform
 
