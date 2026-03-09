@@ -31,7 +31,7 @@ Este cuenta con dos datasets de partida:
 - SteamSpy: este contiene información sobre los precios, las cantidad de reseñas positivas y negativas de los juegos y las etiquetas puestas por la comunidad (p. ej. Horror, FPS, Roguelite)  
 Los datasets los he sacado de las siguientes páginas de Kaggle:  
 https://www.kaggle.com/datasets/nikdavis/steam-store-raw
-https://www.kaggle.com/datasets/nikdavis/steam-store-games  
+https://www.kaggle.com/datasets/nikdavis/steam-store-games
 
 ### Librerías
 
